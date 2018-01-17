@@ -14,12 +14,12 @@ extern "C" {
 }
 
 //--------------------Wifi Variables-------------------//
-const char* ssid     = "ASUS";
-const char* password = "5Im0n2804!";
+const char* ssid     = "XXXXXX";
+const char* password = "XXXXXX";
 
 //--------------------WU PWS ID Info-------------------//
-const char* WUID    = "KKYMOUNT30";
-const char* WUPASS   = "yjil5ue7";
+const char* WUID    = "XXXXXX";
+const char* WUPASS   = "XXXXXX";
 const char* host = "weatherstation.wunderground.com";
 
 #define SEALEVELPRESSURE_HPA (1013.25)
